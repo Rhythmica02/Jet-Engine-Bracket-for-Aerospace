@@ -14,7 +14,7 @@ This is a custom-designed **jet engine bracket** modeled in **Autodesk Fusion 36
 
 
 ## 📷 Preview
-*Add one or more high-quality renders here to show off the design.*
+![Image](https://github.com/user-attachments/assets/74689dcd-ae9c-4e71-9d0c-dc78bb710874)
 
 ## 📜 Attribution
 This project was inspired by the [Jet Engine Bracket Design Tutorial](https://www.youtube.com/watch?v=hkYlDP-BizE) created by David Nguyen. This version was independently recreated and customized.
